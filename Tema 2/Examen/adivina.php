@@ -58,7 +58,7 @@
 
     <p style="height: 100px;"><?php print($parrafo)?>
 
-    <form action="adivina2.php" method="get">
+    <form action="adivina.php" method="get">
         <p>
             <input type="hidden" name="mode" value="<?php echo $modo ?>"> 
             <input type="number" name="numero">
