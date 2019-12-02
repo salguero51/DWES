@@ -1,2 +1,2 @@
-for amigo in ["Luis", "Miguel"]:
+for amigo in ["Luis", "José Antonio", "Miguel", "Paco", "Jaime"]:
     print("Hola", amigo)
